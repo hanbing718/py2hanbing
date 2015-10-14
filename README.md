@@ -1,4 +1,5 @@
-My Awesome Book
+韩冰的Python学习之路
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+很偶然的知道这个群体，果断的加入
